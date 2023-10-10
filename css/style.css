@@ -1,0 +1,74 @@
+* {
+    font-family: Roboto, sans-serif;
+    color: #1f2937;
+}
+
+body {
+    height: 100vh;
+}
+
+.navbar {
+    background-color: #1f2937;
+}
+
+footer,
+.navbar {
+    background-color: #1f2937;
+    color: white;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+a,
+.hero-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2 {
+    font-weight: 900;
+}
+
+h1 {
+    color: #f9faf8;
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+button,
+.call-to-action {
+    background-color: #3882f6;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote p {
+    font-size: 36px;
+    font-style: light italic;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
