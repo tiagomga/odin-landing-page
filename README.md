@@ -1,7 +1,7 @@
 # Landing Page
 
-### Author: Tiago Antao
-### Live demo: URL
+### Author: Tiago Antão
+### Live demo: https://tiagomga.github.io/odin-landing-page
 
 ## What is this?
 
